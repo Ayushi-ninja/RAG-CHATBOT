@@ -1,4 +1,4 @@
-# RAG-CHATBOT
+
 # 📘 RAG-CHATBOT
 
 ## 🚀 Azure AI-102 Practice Project – Retrieval-Augmented Generation Chatbot
